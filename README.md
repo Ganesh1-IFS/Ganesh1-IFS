@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Kurma Kumar
+# 👋 Hi, I'm GaneshKumar
 
 ### Aspiring Data Scientist | AI/ML Enthusiast | Developer
 
