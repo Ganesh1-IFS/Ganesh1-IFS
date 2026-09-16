@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Kurma Kumar
+# 👋 Hi, I'm GaneshKumar
 
 ### Data Science • Artificial Intelligence • Machine Learning
 
